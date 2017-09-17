@@ -1,0 +1,39 @@
+[
+  {
+    "name": "docs",
+    "verbose": "Documentação",
+    "items": [
+      {
+        "name": "id",
+        "verbose": "Identidade",
+        "status": false
+      },
+      {
+        "name": "cpf",
+        "verbose": "CPF",
+        "status": false
+      },
+      {
+        "name": "hab",
+        "verbose": "Habilitação",
+        "status": false
+      }
+    ]
+  },
+  {
+    "name": "cloths",
+    "verbose": "Roupas",
+    "items": [
+      {
+        "name": "shirts",
+        "verbose": "Camisas",
+        "status": false
+      },
+      {
+        "name": "socks",
+        "verbose": "Meias",
+        "status": false
+      }
+    ]
+  }
+]
